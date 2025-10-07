@@ -36,7 +36,7 @@ This repository contains a SQL-based data analysis project on Zepto's product in
 
 ## 🛠️ Tools Used
 
-- **MS SQL Server 2019**
+- **MY SQL Server 2019**
 - **SQL Server Management Studio (SSMS)**
 - Dataset imported from CSV file
 
@@ -44,11 +44,11 @@ This repository contains a SQL-based data analysis project on Zepto's product in
 
 ## 👨‍💻 Author
 
-**Siva Nilla**  
+**Ayush Agrahari**  
 
 🎯 Passionate about Data Analysis
 
-💼 Freelance Designer & data enthusiast  
+
 ## 🔗 Connect with Me
 
 <table>
