@@ -53,16 +53,17 @@ This repository contains a SQL-based data analysis project on Zepto's product in
 
 <table>
   <tr>
-    <td>
-      <a href="www.linkedin.com/in/ayush-agrahari-1845koro" target="_blank">
-        <img src="https://img.shields.io/badge/LINKEDIN-SIVA%20NILLA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-    </td>
-    <td>
-      <a href="mailto:ajay.agrahari9788@gmail.com">
-        <img src="https://img.shields.io/badge/EMAIL-NILLASIVA526%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-      </a>
-    </td>
+   <td>
+  <a href="https://www.linkedin.com/in/ayush-agrahari-1845koro" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-AYUSH%20AGRAHARI-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</td>
+<td>
+  <a href="mailto:ajay.agrahari9788@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-AJAY.AGRAHARI9788%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</td>
+
   </tr>
 </table>
 
