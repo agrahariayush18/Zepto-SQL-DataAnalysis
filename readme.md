@@ -54,12 +54,12 @@ This repository contains a SQL-based data analysis project on Zepto's product in
 <table>
   <tr>
     <td>
-      <a href="https://www.linkedin.com/in/siva-nilla" target="_blank">
+      <a href="www.linkedin.com/in/ayush-agrahari-1845koro" target="_blank">
         <img src="https://img.shields.io/badge/LINKEDIN-SIVA%20NILLA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
       </a>
     </td>
     <td>
-      <a href="mailto:nillasiva526@gmail.com">
+      <a href="mailto:ajay.agrahari9788@gmail.com">
         <img src="https://img.shields.io/badge/EMAIL-NILLASIVA526%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
       </a>
     </td>
@@ -77,7 +77,7 @@ This project is part of my learning journey into **SQL and data analytics**. It 
 ## 🔗 GitHub Repository
 
 ```bash
-git clone https://github.com/SivaNilla28/Zepto-Sql-DataAnaylsis-Project.git
+git clone https://github.com/agrahariayush18/Zepto-SQL-DataAnalysis.git
 ```
 
 ---
